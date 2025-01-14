@@ -1,4 +1,4 @@
-I once had a dream, that I programmed an AI, that could solve the trolley problem by just building a line between both sides so it could kill everyone. 
+I try
 
 
 
